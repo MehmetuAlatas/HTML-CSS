@@ -1,0 +1,30 @@
+h1{
+    color:red; 
+    font-size: 20px; 
+    font-family: cursive; 
+    background-color: yellow
+}
+h2{
+    color:#666d1e; 
+    font-size: 1.5em; 
+    text-align:center
+}
+h4{
+    color: gold;
+    font-size:45px;
+    font-family:courier;
+    background-color:lightblue;
+    text-align:right
+}
+.my-style{
+    color: gold;
+    font-size:45px;
+    font-family:courier;
+    background-color:lightblue;
+    text-align:right
+}
+#head-6{
+    color: purple;
+    background-color: lightpink;
+    font-size: larger;
+}
